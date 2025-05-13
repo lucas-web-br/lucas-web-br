@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🌱 Atualmente estou aprendendo **Dart** e **Flutter**.
 - 👯 Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
 - 💬 Pergunte-me sobre **Dart**, **Flutter**, e **Python**.
-- 📫 Como me encontrar: [getulio.vm.santos@gmail.com](mailto:getulio.vm.santos@gmail.com)
+- 📫 Como me encontrar: (luanlucasfelix05@gmail.com)
 
 ## Habilidades
 
